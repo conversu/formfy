@@ -1,21 +1,46 @@
-MIT License
+LICENÇA DE USO RESTRITO – COMPONENT LIBRARY
 
-Copyright (c) 2025 Conversu
+Copyright (c) [2025] Conversu
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Todos os direitos reservados.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. PERMISSÃO DE USO
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+É concedida ao usuário a permissão para utilizar esta biblioteca de componentes exclusivamente para fins **pessoais, educacionais ou de avaliação interna**.
+
+2. RESTRIÇÕES
+
+É EXPRESSAMENTE PROIBIDO:
+
+a) Usar a biblioteca, total ou parcialmente, para **fins comerciais** sem autorização por escrito do detentor dos direitos.
+
+b) Modificar, adaptar, traduzir, descompilar, fazer engenharia reversa ou criar obras derivadas com base nesta biblioteca.
+
+c) Distribuir, sublicenciar, vender, alugar ou ceder esta biblioteca ou qualquer parte dela, com ou sem modificações.
+
+d) Remover ou alterar avisos de direitos autorais, marca registrada ou outros avisos de propriedade incluídos nos arquivos.
+
+3. PROPRIEDADE INTELECTUAL
+
+Esta biblioteca é protegida por leis de propriedade intelectual nacionais e internacionais. Todos os direitos, títulos e interesses sobre o código-fonte, design, estrutura e documentação permanecem com o autor original.
+
+4. AUSÊNCIA DE GARANTIAS
+
+Esta biblioteca é fornecida "como está", sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a, garantias de adequação a um propósito específico ou não violação de direitos.
+
+5. LIMITAÇÃO DE RESPONSABILIDADE
+
+Em nenhuma circunstância o autor será responsável por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso ou da impossibilidade de uso desta biblioteca.
+
+6. RESCISÃO
+
+Esta licença será automaticamente encerrada caso o usuário viole qualquer termo aqui disposto. Em caso de rescisão, o usuário deverá cessar imediatamente o uso da biblioteca e destruir todas as cópias em sua posse.
+
+7. CONTATO PARA LICENCIAMENTO COMERCIAL
+
+Para solicitar uma licença comercial ou autorização para uso ampliado, entre em contato através de: [seu-email@exemplo.com]
+
+---
+
+Conversu
+https://useconversu.com
